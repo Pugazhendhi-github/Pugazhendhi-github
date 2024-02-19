@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pugazhendhi-github
+- 👋 Hi, I’m Pugazhendhi
 - 👀 I’m interested in ...Learn to code
 - 🌱 I’m currently learning ... Machine Learning..
 - 💞️ I’m looking to collaborate...be collaboratively...
