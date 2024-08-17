@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Application on kivy**
 
-- 🌱 I’m currently learning **Machine Learing and Deep Learning**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
 - 📝 I regularly write articles on **Scientific and Mathematics**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pugazhendhim123@gmail.com**
 
-- ⚡ Fun fact **I think I am Possitive**
+- ⚡ Fun fact **I think I am Positive**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
