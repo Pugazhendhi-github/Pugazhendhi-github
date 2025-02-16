@@ -22,8 +22,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/pugazhendhi/)
-- [Twitter](https://twitter.com/pugazhendhi)
+- [LinkedIn](https://www.linkedin.com/in/pugazhendhi-m/)
+- [Twitter](https://twitter.com/pugazhendhim123)
 - [Personal Website](https://www.pugazhendhi.visha.in)
 
 ## 📝 Recent Blog Posts
